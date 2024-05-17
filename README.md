@@ -2,7 +2,7 @@
 
 We can utilize the [VisualStateManager](https://learn.microsoft.com/en-us/dotnet/maui/user-interface/visual-states?view=net-maui-8.0) to highlight a row when it is hovered over in the [.NET MAUI DataGrid](https://www.syncfusion.com/maui-controls/maui-datagrid).
 
-## XAML
+#### XAML
 We can set the visual state in the resources section of the content page. Below is the code for setting the `VisualStateManager` within a style that targets the `DataGridRow`.
 ```XML
 <ContentPage.Resources>
